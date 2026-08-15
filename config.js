@@ -6,8 +6,8 @@ const config = {
         "bg2.jpg"
     ],
 
-    whatsappLink: "https://kereva.heavengiirls.com/?utm_source=da57dc555e50572d&ban=fb&j1=1&s1=236468&s2=2173856&click_id=BOSS_YAKUZA",
-    telegramLink: "https://kereva.heavengiirls.com/?utm_source=da57dc555e50572d&ban=fb&j1=1&s1=236468&s2=2173856&click_id=BOSS_YAKUZA",
+    whatsappLink: "https://kereva.heavengiirls.com/?utm_source=da57dc555e50572d&ban=fb&j1=1&s1=236468&s2=2173856&click_id=Hyura_Part2",
+    telegramLink: "https://kereva.heavengiirls.com/?utm_source=da57dc555e50572d&ban=fb&j1=1&s1=236468&s2=2173856&click_id=Hyura_Part2",
 
     minMembers: 10000,
     maxMembers: 15000,
